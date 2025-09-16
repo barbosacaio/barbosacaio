@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hi there! I'm Caio, a passionate **Cybersecurity student** with a keen interest in ethical hacking, network security, and digital forensics. I'm currently diving deep into the world of cybersecurity to develop the skills needed to protect systems and data in an increasingly connected world.
+Hi there! I'm Caio, a passionate **Cybersecurity and Software Engineering student** with a keen interest in ethical hacking, network security, digital forensics and produt development. I'm currently diving deep into the world of cybersecurity and software engineering to develop the skills needed to create, protect and maintain systems and data in an increasingly connected world.
 
 ---
 
@@ -13,15 +13,16 @@ Hi there! I'm Caio, a passionate **Cybersecurity student** with a keen interest 
 - 🌐 **Network & Web Application Security**
 - 🧰 **Digital Forensics & Incident Response**
 - 🔍 **Malware Analysis & Reverse Engineering**
+- 🧱 **Product Development & Testing**
+- 🗃️ **Database Management**
 
 ---
 
 ## 🧠 What I’m Learning
 
 - 🔒 **OWASP** Top 10
-- 🐍 Scripting and automation with **Python**
 - 💻 Working with tools like **Burp Suite**, **browser dev tools**, etc
-- 🧾 Preparing for future certifications
+- 🌐 FullStack development focused on **React**
 
 ---
 
@@ -39,6 +40,6 @@ I'm always open to learning, collaboration, and cybersecurity conversations.
 
 ---
 
-> "Cybersecurity is much more than a matter of IT." – Stephane Nappo
+> "The only constant in the technology industry is change." – Marc Benioff
 
 Thanks for stopping by! 🚀
